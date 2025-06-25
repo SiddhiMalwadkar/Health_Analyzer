@@ -1,0 +1,56 @@
+Hemoglobin
+Total Leucocytes
+WBC
+Platelet count
+RBC
+PCV
+MCV
+MCH
+MCHC
+RDW
+MPV
+Neutrophils
+Absolute Neutrophils
+Eosinophils
+Absolute Eosinophils
+Basophils
+Absolute Basophils
+Lymphocytes
+Absolute Lymphocytes
+Monocytes
+Absolute Monocytes
+Bilirubin-Total
+Bilirubin-Conjugated
+Bilirubin-Unconjugated
+SGOT
+AST
+SGPT
+ALT
+Alkaline Phosphatase
+Protein
+Albumin
+Globulin
+GGT
+Gamma Glutamyl Transferase
+Fasting Glucose
+Post Prandial Glucose
+Creatinine
+Sodium
+Potassium
+Chloride
+Prothrombin Time
+Prothrombin time - Control value
+INR
+Total Cholesterol
+Triglycerides
+HDL
+LDL
+VLDL
+Non HDL
+Cholesterol HDL Ratio
+LDL HDL Ratio
+HbA1C
+Estimated Average Glucose
+Microalbumin
+ACR
+Albumin Creatinine Ratio
