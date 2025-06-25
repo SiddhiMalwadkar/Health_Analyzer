@@ -1,8 +1,8 @@
 import requests
 
 # ✅ Your Bot Token and Chat ID
-BOT_TOKEN = '7249070068:AAEzfWO9f_y1YtRpWDNt74E7728Ll3is_kQ'
-CHAT_ID = '1256691399'  # Siddhi's Telegram chat ID
+BOT_TOKEN = 'your bot token'
+CHAT_ID = 'your chatid'  # Siddhi's Telegram chat ID
 
 def send_telegram_message(message):
     """
