@@ -38,14 +38,14 @@ A personal health monitoring desktop application that allows users to upload PDF
 ## 📂 Project Structure
 
 📁 HealthAnalyzer/
-├── main.py # Login system
-├── dashboard_user.py # User dashboard functionality
-├── dashboard_admin.py # Admin dashboard functionality
-├── telegram_notifier.py # Telegram bot message sender
-├── users.csv # User credentials
-├── report_history.json # Uploaded reports and extracted data
-├── keywords.txt # Keywords to extract from PDFs
-├── README.md # Project documentation
+main.py # Login system
+dashboard_user.py # User dashboard functionality
+dashboard_admin.py # Admin dashboard functionality
+telegram_notifier.py # Telegram bot message sender
+users.csv # User credentials
+ report_history.json # Uploaded reports and extracted data
+ keywords.txt # Keywords to extract from PDFs
+README.md # Project documentation
 
 **🔐 Default User Credentials**
 | Role   | Username   | Password         |
